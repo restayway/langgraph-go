@@ -1,3 +1,3 @@
 module github.com/restayway/langgraph-go
 
-go 1.21
+go 1.27.4
